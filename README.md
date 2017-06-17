@@ -2,7 +2,7 @@
 Unreal Engine 4 RPG Prototyping
 
 ### Current concept
-![](http://ipic.su/img/img7/fs/Untitled.1497387606.png)
+![](http://ipic.su/img/img7/fs/Untitled.1497729636.png)
 
 ### Genre: 
 RPG, 3rd person fixed camera RPG
