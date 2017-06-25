@@ -1,6 +1,9 @@
 # ue4_RPG
 Unreal Engine 4 RPG Prototyping
 
+Mindmeister link https://mm.tt/915317138?t=VZji2js6xe
+
+
 ### Current concept
 ![](http://ipic.su/img/img7/fs/Untitled.1497729636.png)
 
